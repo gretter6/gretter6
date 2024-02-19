@@ -1,4 +1,4 @@
-### Hi ! I'm Guillaume ! 👋
+### Bonjour ! Je m'appelle Guillaume ! 👋
 
 🤔 <strong>Qui suis-je ?</strong>
 
