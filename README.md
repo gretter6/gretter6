@@ -2,23 +2,29 @@
 
 🤔 <strong>Qui suis-je ?</strong>
 
-Je m'appelle Guillaume, j'ai 20 ans et je suis originaire du Nord-Est de la France. Je suis actuellement étudiant en préparation d'un Bachelor Universitaire de Technologie en Informatique à l'IUT Nancy Charlemagnes.
+Je m'appelle Guillaume, je suis actuellement étudiant en préparation d'un Bachelor Universitaire de Technologie en Informatique à l'IUT Nancy Charlemagnes.
+
 <details>
-  <summary>💻 Github Statistiques</summary>
+  <summary>🏫 BUT INFO AIL</summary>
+  <br>
+  
+  <details>
+    <summary>  Qu'est-ce qu'un B.U.T ?</summary>
+  </details>
+  
+  <details>
+    <summary>l'Objectif d'un BUT AIL</summary>
+  </details>
+  
+</details>
+
+<details
+    <summary>💻 Github Statistiques</summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=gretter6&show_icons=true&theme=radical" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gretter6&theme=radical" />
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gretter6&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
     <img src="https://github-profile-trophy.vercel.app/?username=gretter6" />
-</details>
-
-<details>
-  <summary>🏫 BUT INFO AIL</summary>
-  <br>
-  <details>
-    <summary>l'Objectif d'un BUT AIL</summary>
-  </details>
-
 </details>
 
 <details>
