@@ -18,7 +18,7 @@ Je m'appelle Guillaume, je suis actuellement étudiant en préparation d'un Bach
   
 </details>
 
-<details
+<details>
     <summary>💻 Github Statistiques</summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=gretter6&show_icons=true&theme=radical" />
