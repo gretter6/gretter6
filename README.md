@@ -9,7 +9,16 @@ Je m'appelle Guillaume, je suis actuellement étudiant en préparation d'un Bach
   <br>
   
   <details>
-    <summary>  Qu'est-ce qu'un B.U.T ?</summary>
+    <summary>❓Qu'est-ce qu'un B.U.T ?</summary>
+    <p>
+      Un B.U.T. est un Bachelor Universitaire de Technologie. Cela remplace l'ancien D.U.T. mais la différence est que le B.U.T. se fait en 3 ans.
+    </p>
+  </details>
+
+  <details>
+    <summary>📖 Ma formation</summary>
+    <p>Je suis en B.U.T. Informatique, l'objectif est de me former en 3 ans à devenir un professionnel qui maîtrisent certains outils informatiques et qui peut s'adapter facilement à de nouvelles technologies.</p><br>
+    <p>La première année consiste à apprendre les bases de l'informatique avec de l'initiation au réseau, à la programmation (Java et plus superficielement C), aux bases de données et à la gestion de projet, l'économie des entreprises ainsi que quelques concepts de droits appliqués à l'informatique.</p>
   </details>
   
   <details>
