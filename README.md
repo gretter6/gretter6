@@ -35,7 +35,7 @@ Je m'appelle Guillaume, je suis actuellement étudiant en préparation d'un Bach
 </blockquote></details>
 
   <details>
-    <summary>Évaluation de mes compétences</summary>
+    <summary>Évaluation de mes compétences en fin de BUT</summary>
 
   ## Compétences générales
   
@@ -43,50 +43,49 @@ Je m'appelle Guillaume, je suis actuellement étudiant en préparation d'un Bach
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [x] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
-zihziofezf
+  - **Commentaire :** Après plusieurs années de développement Java et quelques projets liés à la conception d'application je me sens confortable dans ce domaine. Un des projets est disponible dans mon github en public et se nomme projet_restaurant.
   
   ### Optimiser des applications
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Bien que j'ai eu des cours d'optimisation, je n'ai pas encore eu assez d'expérience concrète en la matière. Je connais quelques principes mais c'est encore flou par endroit.
   
   ### Administrer les applications
   - [ ] 1 - Insatisfaisant
-  - [ ] 2 - Peu satisfaisant
+  - ☑ 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Je n'ai eu que peu de cours à ce sujet et je n'ai pas trouvé les cours assez convainquant. Ce n'est pas un domaine que l'on a vu en détails et dans les bonnes conditions. Ça a été des cours durs à suivre et je n'en ai pas retiré quelque chose de très intéressant. 
   
   ### Gérer des données
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Comme pour la réalisation d'applications, gérer les données fait partie des grands axes de ma formation et de ce fait j'ai de grandes connaissances en la matière surtout pour ce qui est des données relationnelles (avec SQL). 
   
   ### Conduire un développement
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Il me reste encore beaucoup de chemin à faire pour définir particulièrement bien les besoins client. Cependant grâce aux projets à l'IUT et notamment au projet tutoré de dernière année j'ai accumulé de l'expérience dans le travail en projet.
   
   ### Collaborer
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
-  - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - ☑ 5 - Très satisfaisant
+  - **Commentaire :** Je n'ai pas de difficultés spécifiques dans la collaboration. 
   
   ## Compétences techniques générales
   
@@ -94,181 +93,171 @@ zihziofezf
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Algorithmique
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Mes notes ont toujours varié en algorithmie, de plus soit je réussi soit je loupe complétement mon exercice. Je suis assez mitigé quant à mes compétences pour ceci.
   
   ### Programmation objet en Java et PHP, programmation en C, programmation fonctionnelle en Javascript et Scala, programmation événementielle
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Bonnes pratiques
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** J'applique encore assez rarement les bonnes pratiques du développement cependant grâce à un cours de troisième année cela est de plus en plus présent dans mon esprit lorsque je fais un quelconque projet.
   
   ### Capacité d’adaptation à d’autres langages
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
-  - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - ☑ 5 - Très satisfaisant
+  - **Commentaire :** En tant que développeur en herbe, on nous a inculqués qu'on devait tout le temps s'adapter. Maintenant je peux me former sans problèmes à d'autres langages grâce à mon adaptation quotidienne aux nouvelles technologies.
   
   ### Développement
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Analyse et conception objet en UML
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Mes notes sont moyennes. Il me manque encore une vigueur de travail dans tout ce qui concerne l'analyse et la conception en UML qui paraît encore fastidieux. Cependant, grâce aux nombreux projets qui ont requis une analyse, j'ai quand même appris à le faire correctement.
   
   ### Processus unifié, itération, sensibilisation à l’agilité, refactoring
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Tests unitaires, gestion du code, documentation, revue de code
   - [ ] 1 - Insatisfaisant
-  - [ ] 2 - Peu satisfaisant
+  - ☑ 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** On nous a appris à les faire cependant c'est resté assez facultatif pendant la majeur partie du BUT à part dans les cours spécifiques à ce thème. On a eu un seul cours assez éducatif à ce sujet mais seulement en début de troisième année.
   
   ### Projet : méthode PERT, planification des coûts, diagrammes de Gantt
   - [ ] 1 - Insatisfaisant
-  - [ ] 2 - Peu satisfaisant
+  - ☑ 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Je n'ai pas les connaissances nécessaires et eues l'expérience de les mettre en place.
   
   ### Systèmes & réseaux
   - [ ] 1 - Insatisfaisant
-  - [ ] 2 - Peu satisfaisant
+  - ☑ 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Bases de données
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
-  - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - ☑ 5 - Très satisfaisant
   
   ## Compétences techniques des étudiants de troisième année
   
   ### Normalisation
-  - [ ] 1 - Insatisfaisant
+  - ☑ 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Capacité d’adaptation à d’autres SGBD relationnels
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Mes connaissances des BD et du relationnel m'a permis de m'adapter très facilement à tout autre type de SGBD.
   
   ### NoSQL
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** On a eu un seul cours dessus. La plupart du cours servait d'introduction et si on voulait en savoir un peu plus on devait se tourner vers internet directement. Cependant, le niveau demandé pour les exercices/projets par rapport au contenu du cours était assez frappant pour ma part. Je n'ai pas particulièrement apprécié le contenu du cours cependant j'en ai bien compris les enjeux et les points forts ou faibles quant au NoSQL.
   
   ### Développement Web
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** J'ai particulièrement apprécié coder en javascript. J'ai pris du plaisir à faire la majorité des projets où on en avait besoin. 
   
   ### Développement mobile
-  - [ ] 1 - Insatisfaisant
+  - ☑ 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Administration et déploiement
   - [ ] 1 - Insatisfaisant
-  - [ ] 2 - Peu satisfaisant
+  - ☑ 2 - Peu satisfaisant
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ## Connaissances spécifiques au parcours
   
   ### Logique des propositions et des prédicats du premier ordre
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Notes moyennes. Cours difficile à suivre cependant très intéressant. J'ai eu du mal à tout intégré mais mon niveau reste correct.
   
   ### Initiation à l’Intelligence Artificielle
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** Pareil que pour la matière précédente. 
   
   ### Méthodes d’optimisation pour l’aide à la décision
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
-  - [ ] 3 - Moyen
+  - ☑ 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Compilation - Théorie des langages et analyse syntaxique
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
+  - **Commentaire :** J'ai compris les principes majeurs des compilateurs. 
   
   ### Métriques d’évaluation de la qualité des algorithmes
   - [ ] 1 - Insatisfaisant
@@ -276,15 +265,13 @@ zihziofezf
   - [ ] 3 - Moyen
   - [ ] 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   ### Modélisation mathématique
   - [ ] 1 - Insatisfaisant
   - [ ] 2 - Peu satisfaisant
   - [ ] 3 - Moyen
-  - [ ] 4 - Satisfaisant
+  - ☑ 4 - Satisfaisant
   - [ ] 5 - Très satisfaisant
-  - **Commentaire :**
   
   </details>
   
@@ -303,12 +290,15 @@ zihziofezf
   <summary>☎️ contacter moi</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">vous pouvez me contacter sur:</h2>
     <p align="center">
       <br/>
       <a href="guillaume.retter@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="30"/></a><br><br>
+      <a href="https://in.linkedin.com/in/guillaume-retter" target="blank"><img       
+          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="vidyabhandary"/></a> 
     </p>
   </samp>
 </div>
