@@ -35,7 +35,7 @@ Je m'appelle Guillaume, je suis actuellement étudiant en préparation d'un Bach
 </blockquote></details>
 
   <details>
-    <summary>Évaluation de mes compétences en fin de BUT</summary>
+    <summary>📋 Évaluation de mes compétences en fin de BUT</summary>
 
   ## Compétences générales
   
